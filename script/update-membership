@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ruby $0.rb "$@"
+bundle exec ruby $0.rb "$@"
