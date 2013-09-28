@@ -1,0 +1,7 @@
+## 2013 Science Hack Day participants
+
+Please include your GitHub username only, one per line.
+
+ariel
+mattb
+tclem
